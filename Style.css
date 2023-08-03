@@ -14,7 +14,7 @@ background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/b85863b0-0609-
 }
 .text{
     color: white;
-    width: 1000px;
+    width: 60%;
     height: 300px;
     margin: auto;
     text-align: center;
@@ -22,8 +22,9 @@ background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/b85863b0-0609-
 }
 
 img{
+    
     margin-top: 25px;
-    margin-left:220px ;
+    margin-left:15% ;
     width: 160px;
     height: 60px;
 }
