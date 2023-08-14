@@ -1,5 +1,7 @@
 # netflix_web_assign
-
+<h2>Hosted Link</h2>
+ https://jaitensahu.github.io/netflix_web_assign/
+ <br><br>
 
 ![netflix html](https://github.com/jaitensahu/netflix_web_assign/assets/127736781/9efbae10-e758-456e-8c8a-c43c56c0bf68)
 HTML
